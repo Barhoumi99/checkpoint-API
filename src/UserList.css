@@ -1,0 +1,19 @@
+ul {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+li {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  font-size: 1.2rem
+}
+.icon {
+  margin: 0 50px;
+  float: left;
+  font-size: 2rem;
+}
+h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
